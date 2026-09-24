@@ -221,7 +221,7 @@ This project is intended for educational purposes.
 
 ## Authors
 
-ENIAC AB Test Team: Tim Maximilian Ernst @timmaximilanernst-design (https://github.com/timmaximilianernst-design), Giovanni Marco Petraroli, Mehrnoosh Mohebi Damabi
+ENIAC AB Test Team: Tim Maximilian Ernst (https://github.com/timmaximilianernst-design), Giovanni Marco Petraroli (https://github.com/gioptr), Mehrnoosh Mohebi Damabi
 
 
 _Last updated: September 2026._
