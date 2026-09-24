@@ -221,6 +221,7 @@ This project is intended for educational purposes.
 
 ## Authors
 
-ENIAC Data Analytics Team: Tim Maximilian Ernst, Giovanni Marco Petraroli, Mehrnoosh Mohebi Damabi
+ENIAC AB Test Team: Tim Maximilian Ernst @timmaximilanernst-design (https://github.com/timmaximilianernst-design), Giovanni Marco Petraroli, Mehrnoosh Mohebi Damabi
+
 
 _Last updated: September 2026._
