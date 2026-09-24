@@ -187,11 +187,10 @@ The follow-up experiment should predefine:
 | File | Description |
 |---|---|
 | `Eniac_AB_Testing.ipynb` | Main analysis notebook |
-| `Eniac_AB_Testing-1.ipynb` | Additional notebook version |
 | `eniac_a.csv` | Version A data |
-| `eniac_b-2.csv` | Version B data |
-| `eniac_c-3.csv` | Version C data |
-| `eniac_d-4.csv` | Version D data |
+| `eniac_b.csv` | Version B data |
+| `eniac_c.csv` | Version C data |
+| `eniac_d.csv` | Version D data |
 | `Eniac_AB_Testing_Presentation.pptx` | Management presentation |
 
 ## Tools and Libraries
