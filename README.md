@@ -49,9 +49,9 @@ At least one button version has a different CTR.
 The repository contains four CSV files:
 
 - `eniac_a.csv`
-- `eniac_b-2.csv`
-- `eniac_c-3.csv`
-- `eniac_d-4.csv`
+- `eniac_b.csv`
+- `eniac_c.csv`
+- `eniac_d.csv`
 
 Each file contains information about page elements, including:
 
